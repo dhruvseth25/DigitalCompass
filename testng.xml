@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="DigitalCompass" thread-count="5" parallel="tests">
+
+	<listeners>
+		<listener
+			class-name="com.digitalcompass.utilities.ExtentReportManager" />
+	</listeners>
+
+	<parameter name="browser" value="chrome" />
+	<!-- <parameter name="browser" value="firefox" /> -->
+
+	<test name="DCom_TC_001">
+		<classes>
+			<class name="com.digitalcompass.testCases.DCom_TC_001" />
+		</classes>
+	</test>
+
+	<test name="DCom_TC_002">
+		<classes>
+			<class name="com.digitalcompass.testCases.DCom_TC_002" />
+		</classes>
+	</test>
+
+	<test name="DCom_TC_003">
+		<classes>
+			<class name="com.digitalcompass.testCases.DCom_TC_003" />
+		</classes>
+	</test>
+</suite>

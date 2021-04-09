@@ -1,0 +1,160 @@
+[INFO ] 08-04-2021 02:00:03.139 DCom_TC_003 - Starting test case DCom_'TC_003
+[INFO ] 08-04-2021 02:00:05.164 DCom_TC_003 - Facebook Login page is opened
+[INFO ] 08-04-2021 02:00:12.751 DCom_TC_003 - Starting test case DCom_'TC_003
+[INFO ] 08-04-2021 02:00:13.953 DCom_TC_003 - Facebook Login page is opened
+[INFO ] 08-04-2021 02:02:32.883 DCom_TC_003 - Starting test case DCom_'TC_003
+[INFO ] 08-04-2021 02:02:37.301 DCom_TC_003 - Facebook Login page is opened
+[INFO ] 08-04-2021 02:02:37.655 DCom_TC_003 - User has entered the emailid
+[INFO ] 08-04-2021 02:08:14.480 DCom_TC_003 - Starting test case DCom_'TC_003
+[INFO ] 08-04-2021 02:08:16.574 DCom_TC_003 - Facebook Login page is opened
+[INFO ] 08-04-2021 02:08:16.913 DCom_TC_003 - User has entered the emailid
+[INFO ] 08-04-2021 02:08:17.355 DCom_TC_003 - User has clicked on the login button
+[INFO ] 08-04-2021 02:11:07.234 DCom_TC_003 - Starting test case DCom_'TC_003
+[INFO ] 08-04-2021 02:11:08.974 DCom_TC_003 - Facebook Login page is opened
+[INFO ] 08-04-2021 02:11:09.618 DCom_TC_003 - User has entered the emailid
+[INFO ] 08-04-2021 02:11:09.978 DCom_TC_003 - User has clicked on the login button
+[INFO ] 08-04-2021 02:21:09.063 DCom_TC_003 - Starting test case DCom_'TC_003
+[INFO ] 08-04-2021 02:21:11.138 DCom_TC_003 - Facebook Login page is opened
+[INFO ] 08-04-2021 02:21:11.573 DCom_TC_003 - User has entered the emailid
+[INFO ] 08-04-2021 02:21:11.975 DCom_TC_003 - User has clicked on the login button
+[INFO ] 08-04-2021 02:22:14.370 DCom_TC_003 - Starting test case DCom_'TC_003
+[INFO ] 08-04-2021 02:22:16.498 DCom_TC_003 - Facebook Login page is opened
+[INFO ] 08-04-2021 02:22:16.838 DCom_TC_003 - User has entered the emailid
+[INFO ] 08-04-2021 02:22:17.198 DCom_TC_003 - User has clicked on the login button
+[INFO ] 08-04-2021 02:24:16.784 DCom_TC_003 - Starting test case DCom_'TC_003
+[INFO ] 08-04-2021 02:24:18.897 DCom_TC_003 - Facebook Login page is opened
+[INFO ] 08-04-2021 02:24:19.182 DCom_TC_003 - User has entered the emailid
+[INFO ] 08-04-2021 02:24:22.545 DCom_TC_003 - User has clicked on the login button
+[INFO ] 08-04-2021 02:35:17.886 DCom_TC_003 - Starting test case DCom_'TC_003
+[INFO ] 08-04-2021 02:35:19.220 DCom_TC_003 - Facebook Login page is opened
+[INFO ] 08-04-2021 02:35:19.536 DCom_TC_003 - User has entered the emailid
+[INFO ] 08-04-2021 02:35:23.635 DCom_TC_003 - User has clicked on the login button
+[INFO ] 08-04-2021 02:48:19.070 DCom_TC_003 - Starting test case DCom_'TC_003
+[INFO ] 08-04-2021 02:48:21.146 DCom_TC_003 - Facebook Login page is opened
+[INFO ] 08-04-2021 02:48:21.472 DCom_TC_003 - User has entered the emailid
+[INFO ] 08-04-2021 02:48:25.170 DCom_TC_003 - User has clicked on the login button
+[INFO ] 08-04-2021 02:48:25.170 DCom_TC_003 - User is in the home page
+[INFO ] 08-04-2021 02:48:26.075 DCom_TC_003 - user has clicked on the drop down
+[INFO ] 08-04-2021 02:52:17.729 DCom_TC_003 - Starting test case DCom_'TC_003
+[INFO ] 08-04-2021 02:52:22.465 DCom_TC_003 - Facebook Login page is opened
+[INFO ] 08-04-2021 02:52:22.759 DCom_TC_003 - User has entered the emailid
+[INFO ] 08-04-2021 02:52:26.732 DCom_TC_003 - User has clicked on the login button
+[INFO ] 08-04-2021 02:52:26.732 DCom_TC_003 - User is in the home page
+[INFO ] 08-04-2021 02:52:27.734 DCom_TC_003 - user has clicked on the drop down
+[INFO ] 08-04-2021 02:58:36.593 DCom_TC_003 - Starting test case DCom_'TC_003
+[INFO ] 08-04-2021 02:58:38.031 DCom_TC_003 - Facebook Login page is opened
+[INFO ] 08-04-2021 02:58:38.326 DCom_TC_003 - User has entered the emailid
+[INFO ] 08-04-2021 02:58:42.406 DCom_TC_003 - User has clicked on the login button
+[INFO ] 08-04-2021 02:58:42.407 DCom_TC_003 - User is in the home page
+[INFO ] 08-04-2021 02:58:43.619 DCom_TC_003 - user has clicked on the drop down
+[INFO ] 08-04-2021 02:58:46.256 DCom_TC_003 - User has sucessfully logged out
+[INFO ] 08-04-2021 05:59:24.004 DCom_TC_002 - Starting test case DCom_'TC_002
+[INFO ] 08-04-2021 05:59:26.316 DCom_TC_002 - Google Home page is opened
+[INFO ] 08-04-2021 05:59:26.363 DCom_TC_002 - Page Title verified
+[INFO ] 08-04-2021 05:59:30.496 DCom_TC_002 - User has clicked on the signin button
+[INFO ] 08-04-2021 05:59:30.496 DCom_TC_002 - Providing userId
+[INFO ] 08-04-2021 05:59:31.156 DCom_TC_002 - User has clicked on the next button
+[ERROR] 08-04-2021 05:59:31.630 DCom_TC_002 - Test case has failed
+[INFO ] 08-04-2021 05:59:48.170 DCom_TC_002 - Starting test case DCom_'TC_002
+[INFO ] 08-04-2021 05:59:50.321 DCom_TC_002 - Google Home page is opened
+[INFO ] 08-04-2021 05:59:50.343 DCom_TC_002 - Page Title verified
+[INFO ] 08-04-2021 05:59:52.680 DCom_TC_002 - User has clicked on the signin button
+[INFO ] 08-04-2021 05:59:52.696 DCom_TC_002 - Providing userId
+[INFO ] 08-04-2021 05:59:53.384 DCom_TC_002 - User has clicked on the next button
+[ERROR] 08-04-2021 05:59:53.468 DCom_TC_002 - Test case has failed
+[INFO ] 08-04-2021 06:05:23.047 DCom_TC_002 - Starting test case DCom_'TC_002
+[INFO ] 08-04-2021 06:05:25.293 DCom_TC_002 - Google Home page is opened
+[INFO ] 08-04-2021 06:05:25.327 DCom_TC_002 - Page Title verified
+[INFO ] 08-04-2021 06:05:27.807 DCom_TC_002 - User has clicked on the signin button
+[INFO ] 08-04-2021 06:05:27.807 DCom_TC_002 - Providing userId
+[INFO ] 08-04-2021 06:05:28.443 DCom_TC_002 - User has clicked on the next button
+[INFO ] 08-04-2021 06:05:28.712 DCom_TC_002 - The User is notified that access is denied 
+[INFO ] 08-04-2021 06:05:28.720 DCom_TC_002 - Test case has passed 
+[INFO ] 08-04-2021 06:05:29.138 DCom_TC_002 - User has denied the access and asked to verify the userId
+[INFO ] 08-04-2021 06:05:37.734 DCom_TC_002 - Starting test case DCom_'TC_002
+[INFO ] 08-04-2021 06:05:43.112 DCom_TC_002 - Google Home page is opened
+[INFO ] 08-04-2021 06:05:43.165 DCom_TC_002 - Page Title verified
+[INFO ] 08-04-2021 06:05:44.970 DCom_TC_002 - User has clicked on the signin button
+[INFO ] 08-04-2021 06:05:44.970 DCom_TC_002 - Providing userId
+[INFO ] 08-04-2021 06:05:45.924 DCom_TC_002 - User has clicked on the next button
+[INFO ] 08-04-2021 06:05:45.989 DCom_TC_002 - The User is notified that access is denied 
+[INFO ] 08-04-2021 06:05:45.989 DCom_TC_002 - Test case has passed 
+[INFO ] 08-04-2021 06:05:46.116 DCom_TC_002 - User has denied the access and asked to verify the userId
+[INFO ] 08-04-2021 09:27:43.089 DCom_TC_001 - Starting test case DCom_'TC_001
+[INFO ] 08-04-2021 09:27:44.959 DCom_TC_001 - Google Home page is opened
+[INFO ] 08-04-2021 09:27:44.975 DCom_TC_001 - Page Title verified
+[INFO ] 08-04-2021 09:27:47.389 DCom_TC_001 - User has clicked on the signin button
+[INFO ] 08-04-2021 09:27:47.390 DCom_TC_001 - Providing userId
+[INFO ] 08-04-2021 09:27:48.235 DCom_TC_001 - User has clicked on the next button
+[INFO ] 08-04-2021 09:27:51.827 DCom_TC_002 - Starting test case DCom_'TC_002
+[INFO ] 08-04-2021 09:27:56.210 DCom_TC_002 - Google Home page is opened
+[INFO ] 08-04-2021 09:27:56.229 DCom_TC_002 - Page Title verified
+[INFO ] 08-04-2021 09:27:59.559 DCom_TC_002 - User has clicked on the signin button
+[INFO ] 08-04-2021 09:27:59.559 DCom_TC_002 - Providing userId
+[INFO ] 08-04-2021 09:28:00.262 DCom_TC_002 - User has clicked on the next button
+[INFO ] 08-04-2021 09:28:00.820 DCom_TC_002 - The User is notified that access is denied 
+[INFO ] 08-04-2021 09:28:00.821 DCom_TC_002 - Test case has passed 
+[INFO ] 08-04-2021 09:28:01.618 DCom_TC_002 - User has denied the access and asked to verify the userId
+[INFO ] 08-04-2021 09:28:04.860 DCom_TC_003 - Starting test case DCom_'TC_003
+[INFO ] 08-04-2021 09:28:07.663 DCom_TC_003 - Facebook Login page is opened
+[INFO ] 08-04-2021 09:28:08.192 DCom_TC_003 - User has entered the emailid
+[INFO ] 08-04-2021 09:28:08.592 DCom_TC_003 - User has clicked on the login button
+[INFO ] 08-04-2021 09:28:08.593 DCom_TC_003 - User is in the home page
+[INFO ] 08-04-2021 09:28:17.908 DCom_TC_003 - user has clicked on the drop down
+[INFO ] 08-04-2021 09:28:22.300 DCom_TC_003 - User has sucessfully logged out
+[INFO ] 08-04-2021 09:28:22.300 DCom_TC_003 - Test Case has successfully passed
+[INFO ] 08-04-2021 09:28:37.178 DCom_TC_002 - Starting test case DCom_'TC_002
+[INFO ] 08-04-2021 09:28:39.278 DCom_TC_002 - Google Home page is opened
+[INFO ] 08-04-2021 09:28:39.281 DCom_TC_002 - Page Title verified
+[INFO ] 08-04-2021 09:28:41.878 DCom_TC_002 - User has clicked on the signin button
+[INFO ] 08-04-2021 09:28:41.878 DCom_TC_002 - Providing userId
+[INFO ] 08-04-2021 09:28:42.505 DCom_TC_002 - User has clicked on the next button
+[INFO ] 08-04-2021 09:28:42.593 DCom_TC_002 - The User is notified that access is denied 
+[INFO ] 08-04-2021 09:28:42.593 DCom_TC_002 - Test case has passed 
+[INFO ] 08-04-2021 09:28:42.708 DCom_TC_002 - User has denied the access and asked to verify the userId
+[INFO ] 08-04-2021 09:39:09.566 DCom_TC_002 - Starting test case DCom_'TC_002
+[INFO ] 08-04-2021 09:39:09.587 DCom_TC_003 - Starting test case DCom_'TC_003
+[INFO ] 08-04-2021 09:39:09.597 DCom_TC_001 - Starting test case DCom_'TC_001
+[INFO ] 08-04-2021 09:39:14.060 DCom_TC_001 - Google Home page is opened
+[INFO ] 08-04-2021 09:39:14.113 DCom_TC_001 - Page Title verified
+[INFO ] 08-04-2021 09:39:14.256 DCom_TC_002 - Google Home page is opened
+[INFO ] 08-04-2021 09:39:14.266 DCom_TC_002 - Page Title verified
+[INFO ] 08-04-2021 09:39:14.640 DCom_TC_003 - Facebook Login page is opened
+[INFO ] 08-04-2021 09:39:15.485 DCom_TC_003 - User has entered the emailid
+[INFO ] 08-04-2021 09:39:16.328 DCom_TC_003 - User has clicked on the login button
+[INFO ] 08-04-2021 09:39:16.328 DCom_TC_003 - User is in the home page
+[INFO ] 08-04-2021 09:39:19.993 DCom_TC_002 - User has clicked on the signin button
+[INFO ] 08-04-2021 09:39:19.993 DCom_TC_002 - Providing userId
+[INFO ] 08-04-2021 09:39:20.036 DCom_TC_001 - User has clicked on the signin button
+[INFO ] 08-04-2021 09:39:20.036 DCom_TC_001 - Providing userId
+[INFO ] 08-04-2021 09:39:23.283 DCom_TC_002 - User has clicked on the next button
+[INFO ] 08-04-2021 09:39:23.901 DCom_TC_001 - User has clicked on the next button
+[INFO ] 08-04-2021 09:39:24.504 DCom_TC_002 - The User is notified that access is denied 
+[INFO ] 08-04-2021 09:39:24.504 DCom_TC_002 - Test case has passed 
+[INFO ] 08-04-2021 09:39:25.989 DCom_TC_003 - user has clicked on the drop down
+[INFO ] 08-04-2021 09:39:26.522 DCom_TC_002 - User has denied the access and asked to verify the userId
+[INFO ] 08-04-2021 09:39:35.726 DCom_TC_003 - User has sucessfully logged out
+[INFO ] 08-04-2021 09:39:35.726 DCom_TC_003 - Test Case has successfully passed
+[INFO ] 08-04-2021 10:08:42.684 DCom_TC_003 - Starting test case DCom_'TC_003
+[INFO ] 08-04-2021 10:08:42.684 DCom_TC_002 - Starting test case DCom_'TC_002
+[INFO ] 08-04-2021 10:08:42.749 DCom_TC_001 - Starting test case DCom_'TC_001
+[INFO ] 08-04-2021 10:08:52.803 DCom_TC_001 - Google Home page is opened
+[INFO ] 08-04-2021 10:08:52.948 DCom_TC_001 - Page Title verified
+[INFO ] 08-04-2021 10:08:53.610 DCom_TC_002 - Google Home page is opened
+[INFO ] 08-04-2021 10:08:53.657 DCom_TC_002 - Page Title verified
+[INFO ] 08-04-2021 10:08:54.450 DCom_TC_003 - Facebook Login page is opened
+[INFO ] 08-04-2021 10:08:55.277 DCom_TC_003 - User has entered the emailid
+[INFO ] 08-04-2021 10:08:56.028 DCom_TC_003 - User has clicked on the login button
+[INFO ] 08-04-2021 10:08:56.029 DCom_TC_003 - User is in the home page
+[INFO ] 08-04-2021 10:08:58.381 DCom_TC_002 - User has clicked on the signin button
+[INFO ] 08-04-2021 10:08:58.382 DCom_TC_002 - Providing userId
+[INFO ] 08-04-2021 10:08:58.490 DCom_TC_001 - User has clicked on the signin button
+[INFO ] 08-04-2021 10:08:58.491 DCom_TC_001 - Providing userId
+[INFO ] 08-04-2021 10:09:00.635 DCom_TC_002 - User has clicked on the next button
+[INFO ] 08-04-2021 10:09:00.942 DCom_TC_001 - User has clicked on the next button
+[INFO ] 08-04-2021 10:09:01.417 DCom_TC_002 - The User is notified that access is denied 
+[INFO ] 08-04-2021 10:09:01.417 DCom_TC_002 - Test case has passed 
+[INFO ] 08-04-2021 10:09:02.367 DCom_TC_002 - User has denied the access and asked to verify the userId
+[INFO ] 08-04-2021 10:09:06.155 DCom_TC_003 - user has clicked on the drop down
+[INFO ] 08-04-2021 10:09:11.062 DCom_TC_003 - User has sucessfully logged out
+[INFO ] 08-04-2021 10:09:11.062 DCom_TC_003 - Test Case has successfully passed
