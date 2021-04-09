@@ -2,6 +2,12 @@
 
 <suite name="DigitalCompass">
 	<test name="FacebookLoginTestChrome">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="com.digitalcompass.testCases.DCom_TC_003" />
+		</classes>
+	</test>
+	<test name="FacebookLoginTestFirefox">
 		<parameter name="browser" value="firefox" />
 		<classes>
 			<class name="com.digitalcompass.testCases.DCom_TC_003" />
